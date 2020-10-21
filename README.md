@@ -1,3 +1,5 @@
+## Fixing the conflict with phonegap-plugin-barcodescanner plugin
+
 # cordova-plugin-facebook4
 
 > Use Facebook SDK in Cordova projects
